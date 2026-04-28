@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+background-color: black;
+color: blanchedalmond;
+padding: 1opx;
+margin-left: 550px;
+display: inline-block;
+
+}
+p{
+    text-align: center;
+    margin: 20px;
+    background-color: aqua;
+}
