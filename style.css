@@ -4,7 +4,7 @@
 }
 
 div{
-background-color: black;
+background-color: rgb(65, 18, 65);
 color: blanchedalmond;
 padding: 1opx;
 margin-left: 550px;
@@ -14,5 +14,5 @@ display: inline-block;
 p{
     text-align: center;
     margin: 20px;
-    background-color: aqua;
+    background-color:rgb(8, 141, 134);
 }
